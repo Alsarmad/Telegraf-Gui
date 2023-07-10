@@ -38,8 +38,8 @@
 
 ## تنزيل التطبيق
 
-- **Linux**: [Download the .AppImage, .deb, or .rpm file](https://github.com/rn0x/Telegraf-Gui/releases/latest)
-- **Windows**: [Download the .exe file](https://github.com/rn0x/Telegraf-Gui/releases/latest)
+- **Linux**: [Download the .AppImage, .deb, or .rpm file](https://github.com/Alsarmad/Telegraf-Gui/releases/latest)
+- **Windows**: [Download the .exe file](https://github.com/Alsarmad/Telegraf-Gui/releases/latest)
 
 ### قم  بتشغيل التطبيق في وضع التطوير 
 
@@ -51,7 +51,7 @@
 
 ```bash
 
-git clone https://github.com/rn0x/Telegraf-Gui
+git clone https://github.com/Alsarmad/Telegraf-Gui
 cd Telegraf-Gui
 yarn install
 yarn run dev
